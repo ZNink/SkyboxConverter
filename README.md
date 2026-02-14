@@ -3,7 +3,7 @@
 
 来自b站@是亚克力
 
-crack by ZNink 
+Crack & Modificate by ZNink 
 
 GPLv3协议
 
