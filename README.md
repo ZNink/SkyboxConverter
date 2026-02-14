@@ -1,11 +1,11 @@
 # SkyboxConverter
 一个简单的工具，可以将java版的天空盒转换为国际基岩版/网易基岩版的天空盒
 
-来自b站@是亚克力
+### 工具作者b站@是亚克力
 
-Crack & Modificate by ZNink 
+### Crack & Modificate by ZNink 
 
-GPLv3协议
+### AGPLv3协议
 
 https://www.bilibili.com/video/av115757102929655/
 
