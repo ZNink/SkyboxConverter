@@ -6,3 +6,10 @@ crack by ZNink
 Have Fun
 
 GPLv3协议
+
+https://www.bilibili.com/video/av115757102929655/
+b站关注是亚克力谢谢喵
+
+官方Release下载地址：
+https://wwbhn.lanzout.com/b00odk95yh
+密码:abse
